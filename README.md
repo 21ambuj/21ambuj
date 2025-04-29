@@ -6,8 +6,7 @@
 - 🔭 I’m currently working on **Educational & Tech Projects**
 - 🌱 I’m currently learning **Data Structures, Algorithms, and System Design**
 - 👯 I’m looking to collaborate on **Tech, Games, and Startup Projects**
-- 🎯 I love sharing knowledge through my YouTube channel [INNOBYTE](https://www.youtube.com/@INNOBYTE)
-- 🗺️ Trip Advisor @ LPU Campus
+
 
 ---
 
@@ -31,16 +30,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambujmaurya&layout=compact&theme=tokyonight"/>
 </p>
 
----
-
-### 🎥 My YouTube Channel: INNOBYTE
-[![INNOBYTE](https://img.shields.io/badge/YouTube-INNOBYTE-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@INNOBYTE)
 
 ---
 
 ### 📫 How to reach me:
 - 📧 Email: **ambujmaurya123@gmail.com**
-- 💬 Instagram: [@ambuj_officially](https://instagram.com/ambuj_officially)
+
 
 ---
 
