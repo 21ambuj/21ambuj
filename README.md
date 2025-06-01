@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Educational & Tech Projects**
 - 🌱 I’m learning **Data Structures, Algorithms, and Full Stack Web Development**
-- 👯 I’m open to collaborations on **Tech, Game Dev, AI, and Startup Projects**
+- 👯 I’m open to collaborations on **Tech, Web Dev, AI, and Startup Projects**
 - 💡 Creator of **ChatIQ** (Real-time Chat with Voice Support), **OS Monitoring System**, and **MovieNow** (Online Ticket Booking Platform)
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/21ambuj)
 
@@ -32,7 +32,7 @@
 - 🖥️ **OS Monitoring System** – A system-level tool to monitor **CPU usage, memory stats, and active processes**
 - 🎫 **MovieNow** – An **online movie ticket booking platform** with real-time seat selection and booking
 - 🤖 **AI Chatbot** – An intelligent **networking assistant chatbot** with human-like conversational abilities
-- 📊 **DSA Practice Tool** – An interactive platform to **visualize and practice Data Structures & Algorithms**
+- 📊 **DSA Practice ** –  **Leetcode , HackerRank**
 
 ---
 
