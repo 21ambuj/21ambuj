@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Educational & Tech Projects**
 - 🌱 I’m learning **Data Structures, Algorithms, and Full Stack Web Development**
 - 👯 I’m open to collaborations on **Tech, Web Dev, AI, and Startup Projects**
-- 💡 Creator of **ChatIQ** (Real-time Chat with Voice Support), **OS Monitoring System**, and **MovieNow** (Online Ticket Booking Platform)
+- 💡 Creator of **ChatIQ** (Real-time Chat with one to one interaction), **OS Monitoring System**, and **MovieNow** (Online Ticket Booking Platform)
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/21ambuj)
 - 🌐 Visit to see my Portfolio [MyPortFolio](https://ambuj21.netlify.app)
 
